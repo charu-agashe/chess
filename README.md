@@ -15,3 +15,8 @@ Chess Application
     >gradlew clean test --info               
 * The test results will be available under
     > build/reports/tests/test/index.html 
+    
+###### EXTEND APPLICATION 
+1. Add integration tests
+2. Add remaining pieces
+3. Add players to create a game
